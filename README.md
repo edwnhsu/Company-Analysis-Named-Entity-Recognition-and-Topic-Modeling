@@ -42,7 +42,7 @@ In this part, topic modeling is used to identify the top N most important topics
 <br>
 <br>
 
-**Conclusion**
+**Conclusion:**
 
 This project explores the application of NER for company and location identification, as well as topic modeling for extracting key topics from a large dataset of tweets and news articles.
 
@@ -50,7 +50,7 @@ This project explores the application of NER for company and location identifica
 <br>
 <br>
 
-**How to Use**
+**How to Use:**
 
 Run the provided Jupyter Notebooks (Company Analysis_Starter1.ipynb for Part A and Company Analysis_Starter2.ipynb for Part B) to reproduce the results and visualizations.
 
