@@ -92,8 +92,11 @@ The five discussion themes include:
 │   ├── Company Analysis_Starter1.ipynb       # Part A: Named Entity Recognition
 │   └── Company Analysis_Starter2.ipynb       # Part B: Topic Modeling
 ├── images/                                   # Extracted charts and figures
+├── html_outputs/                             # HTML visual outputs for non-technical users
+│   ├── Company_Entity_Analysis.html
+│   └── Company_Topic_Modeling_Analysis.html
 ├── requirements.txt                          # Python dependencies
-└── README.md                                 # Project description (this file)
+└── README.md                                 # Project description
 ```
 
 ---
